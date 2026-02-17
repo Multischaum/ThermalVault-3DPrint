@@ -4,6 +4,8 @@ Dieses Projekt ist aus einer ganz praktischen Frage entstanden: **Wie isoliere i
 
 Anstatt mich auf mein Bauchgefühl zu verlassen, habe ich dieses interaktive Tool in **Julia** und **Pluto.jl** entwickelt. Es vergleicht zwei grundlegende Isolations-Konzepte: Klassische Dämmung vs. reflektierende Hitzeschilde.
 
+Live Demo: https://multischaum.github.io/ThermalVault-3DPrint/W%C3%A4rme%C3%BCbertragung%20Bauraum%203D%20drucker.html
+
 ---
 
 ## 🛠️ Der Hintergrund (Vom Tüftler für Tüftler)
